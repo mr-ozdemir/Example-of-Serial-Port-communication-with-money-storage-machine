@@ -1,0 +1,9 @@
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\bin\Debug\DepoMatController.exe.config
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\bin\Debug\DepoMatController.exe
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\bin\Debug\DepoMatController.pdb
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.Form1.resources
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.Properties.Resources.resources
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.csproj.GenerateResource.cache
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.exe
+C:\Users\Kubra\source\repos\DepoMatController\DepoMatController\obj\Debug\DepoMatController.pdb
